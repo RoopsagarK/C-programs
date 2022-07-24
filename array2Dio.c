@@ -19,3 +19,8 @@ void main(){
 		printf("\n");
 	}	
 }
+/*output:
+enter the size of row and column :  2 2
+enter the array elements : 1 2 3 4
+1 2
+3 4  */
