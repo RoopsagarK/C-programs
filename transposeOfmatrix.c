@@ -1,3 +1,5 @@
+//printing the transpose of the given matrix
+
 #include<stdio.h>
 int main(){
 	int r,c;
@@ -25,3 +27,21 @@ int main(){
 		printf("\n");
 		}
     }
+/* output:
+enter the size of the array : 2 2
+
+enter the array elements : 1 2 3 4
+
+the given matrix is :
+
+ 1 2
+
+ 3 4
+
+transpose of the matrix :
+
+ 1 3
+
+ 2 4
+
+[Program finished] */
