@@ -1,4 +1,4 @@
-//program to print maximun and minimun number in an array
+//program to print maximun and minimun number in an array//
 
 #include<stdio.h>
 #include<limits.h>
