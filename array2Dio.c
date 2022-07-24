@@ -1,4 +1,4 @@
-//taking input and printing it in two dimensional array
+//taking input and printing it in two dimensional array//
 
 #include<stdio.h>
 void main(){
