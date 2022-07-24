@@ -1,3 +1,5 @@
+//program to print maximun and minimun number in an array
+
 #include<stdio.h>
 #include<limits.h>
 void main(){
@@ -22,3 +24,9 @@ void main(){
 	printf("Max = %d\n",max);
 	printf("Min = %d",min);
 }
+
+/*output:
+enter the size of the array : 5
+enter the array elements : 1 2 3 4 5
+Max = 5
+Min = 1 */
