@@ -16,8 +16,8 @@ int main(){
 	printf("sin(%d) = %f\n",degree,sinX);
 	printf("cos(%d) = %f\n",degree,cosX);
 	 
-	printf("sinx using bilt-in function = %f\n",sin(x));
-	printf("cosx using bilt-in function =%f",cos(x));
+	printf("sin(%d) using bilt-in function = %f\n",degree,sin(x));
+	printf("cosx(%d)using bilt-in function =%f",degree,cos(x));
 	
 	return 0;
 }
@@ -33,6 +33,6 @@ int fact(int n){
 /*enter the degree : 45
 sin(45) = 0.706825
 cos(45) = 0.707385
-sinx using bilt-in function = 0.706825
-cosx using bilt-in function =0.707388
+sin(45) using bilt-in function = 0.706825
+cos(45) using bilt-in function =0.707388
 [Program finished]*/
