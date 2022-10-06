@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<string.h>
+
 void main(){
 	char s1[50],s2[50];
 	printf("enter the string1 and string2 : ");
