@@ -49,7 +49,7 @@ printf("strings after concatenation %s",s1);
 sagar
 length of s1 without using libfunc : 4
 length of s2 without using libfunc : 5
-strings are not equa
+strings are not equal
 lstrings after concatenation roopsagar
 [Program finished]/	
 			
