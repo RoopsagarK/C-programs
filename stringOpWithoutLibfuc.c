@@ -32,7 +32,7 @@ int length=0;
 	if(length1 == length){
 			printf("strings are equal\n");
 	}else {
-			printf("strings are not equa\nl");
+			printf("strings are not equal\nl");
 	}
 
 //string concatenate
